@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anton Van Zyl
 =====================================================================================================================================
 
-Lead Architect | Architecture Guild Lead | Head of Cybersecurity @ Naked Financial Technologies
+Lead Architect | Architecture Guild Lead | Head of Cybersecurity <br/> 
+@ Naked Financial Technologies
 -----------------------------------------------------------------------------------------------
 
 I am a seasoned software architect with extensive experience in startup environments. As a key member of the technical team, I am responsible for ensuring the security and stability of our systems, as well as providing support to our users. I am also responsible for onboarding new team members, interviewing potential candidates, mentoring junior developers, and providing guidance and counselling to all team members. With a passion for technology and a dedication to delivering high-quality solutions, I am committed to helping our startup achieve success and fostering a positive and productive work environment for all team members.
